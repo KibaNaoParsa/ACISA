@@ -1,0 +1,7 @@
+        <script src="{url}assets/layout_principal/vendor/jquery/jquery.min.js"></script>
+        <script src="{url}assets/layout_principal/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+        <script src="{url}assets/layout_principal/vendor/jquery-easing/jquery.easing.min.js"></script>
+        <script src="{url}assets/layout_principal/js/stylish-portfolio.min.js"></script>
+    </body>
+</html>
+
